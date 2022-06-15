@@ -2062,7 +2062,7 @@ switch (card_id) {
 		card_name="Piplup";
 		card_stage=1; card_evo[0]=394; card_starter=true;
 		card_type_a=03; card_type_b=-1;
-		card_base_hp=53; card_base_atk=51+61; card_base_def=68+56;
+		card_base_hp=53; card_base_atk=51+61; card_base_def=53+56;
 		card_grid_x=8; card_grid_y=1; break;
 	case 394:
 		card_name="Prinplup";
@@ -2506,7 +2506,7 @@ switch (card_id) {
 		card_name="Magmortar";
 		card_stage=2;
 		card_type_a=02; card_type_b=-1;
-		card_base_hp=75; card_base_atk=95+123; card_base_def=67+95;
+		card_base_hp=75; card_base_atk=95+125; card_base_def=67+95;
 		card_grid_x=5; card_grid_y=7; break;
 	case 468:
 		card_name="Togekiss";
